@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans",sans-serif;
+}
+
+.navbar {
+  background: #E83E8C;
+}
+
+.navbar-brand img {
+  height: 3rem;
+}
+
+.icons{
+	background-color: #17A2B8;
+}
+
+
+.pie {
+	background-color: #E83E8C;
+}
+
+
